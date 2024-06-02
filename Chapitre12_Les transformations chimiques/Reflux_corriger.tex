@@ -1,0 +1,30 @@
+
+
+\begin{pspicture}[shift=2]
+\psset{unit=.7cm} 
+% \psgrid
+\rput[t1](11,10){\large Réfrigérant à boule}
+\psline[linewidth=.05]{->}(6.5,10)(3.2,10)
+\psline[linestyle=dashed](7,9.3)(15,9.3)
+
+\rput[t1](11,7){\large Ballon}
+\psline[linewidth=0.05]{->}(6.5,7)(5,7)(3.5,5)
+\psline[linestyle=dashed](7,6.3)(15,6.3)
+
+\rput[t1](11,3){\large Chauffe ballon}
+\psline[linestyle=dashed](7,2.3)(15,2.3)
+\psline[linewidth=.05]{->}(6.5,3)(3,3)
+
+\rput[t1](11,1){\large Support élévateur}
+\psline[linewidth=.05]{->}(6.5,1)(3.2,1)
+\psline[linestyle=dashed](7,0.3)(15,0.3)
+
+\pstBallon[linewidth = .05, refrigerantBoulles,glassType=ballon,%
+substance=\pstClouFer]
+\psframe[fillstyle=solid,fillcolor=gray](-4.2,2)(0.2,1.8)
+\psline(-4.2,1.8)(0.2,0)
+\psline(0.2,1.8)(-4.2,0)
+\psframe[fillstyle=solid,fillcolor=gray](-4.2,0)(0.2,-0.2)
+
+
+\end{pspicture}

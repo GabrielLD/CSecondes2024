@@ -1,0 +1,250 @@
+%!TEX encoding = UTF-8 Unicode
+\documentclass[french, a4paper, 12pt, twocolumn, landscape]{article}
+
+\input{pckg.tex}
+\usepackage{eurosym}
+\usepackage{colortbl}
+\usepackage{setspace}
+% 
+%%
+%% DEBUT DU DOCUMENT
+%%
+\begin{document}
+
+
+%%%%%%
+
+\titre{Chapitre 9 : Décrire un mouvement}
+
+\doc{1}{Bulletin officiel}{
+\begin{center}
+	\includegraphics[width=1\textwidth]{BO1.png}
+	\includegraphics[width=1 \textwidth]{BO2.png}
+
+\end{center}
+}
+
+\vspace{1cm}
+\doc{2}{Exercices dans le livre scolaire}{
+		\begin{enumerate}
+			\item Compétence de base : exercice 5,6, 10 page 210
+			\item Pour confirmer  : exercice 14, (16, 17,18 au choix) page 211
+			\item Parcours expert exercice 20,21 page 213
+		\end{enumerate}
+}
+
+	\noindent \textbf{Quiz sur la description d'un mouvement}
+\begin{center}
+	\begin{minipage}{.14\textwidth}
+		\centering
+		\includegraphics[width=.5\textwidth]{Quiz1.png}
+		
+		Quiz 1 - Notion de référentiel : \url{https://forms.office.com/r/uMe5XngTAY?origin=lprLink}
+	\end{minipage}\hspace{.5cm}
+	\begin{minipage}{.14\textwidth}
+		\centering
+		\includegraphics[width=.5\textwidth]{Quiz2.png}
+
+		Quiz 2 - Notion de trajectoire: \url{https://forms.office.com/r/MPtwME5vem?origin=lprLink}
+	\end{minipage}\hspace{.5cm}
+\begin{minipage}{.14\textwidth}
+			\centering
+			\includegraphics[width=.5\textwidth]{Quiz3.png}
+	
+			Quiz 3 - Le vecteur vitesse : \url{https://forms.office.com/r/g7sZRusPFF?origin=lprLink}
+		\end{minipage}
+\end{center}
+
+
+\section*{Introduction}
+
+Ce chapitre aborde la \textbf{mécanique}, c'est à dire le domaine de la physique qui sert à \textbf{décrire} et \textbf{prévoir} le mouvement des objets qui nous entourent, qu'il s'agisse d'une goutte de pluie, d'un car TRANSDEV ou encore des planètes autour du Soleil.
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=.14\textwidth]{Transdev.png}\hspace{2cm}
+	\includegraphics[width=.11\textwidth]{Lune.png}
+	\caption{La mécanique permet aussi bien d'étudier le mouvement de la lune autour de la Terre que celui d'un car Breizhgo}
+\end{figure}
+\clearpage
+
+\section{Système et référentiel}
+
+\begin{definition}{Définition 1 - Système}
+
+		Le système est l'objet ou un ensemble d'objets reliés entre eux, dont on étudie le mouvement.
+
+\end{definition}
+
+En mécanique, on modélise souvent le sytème étudié par \textbf{un point}
+
+\exo{1}{Modéliser des systèmes}{\mobiliser On souhaite étudier le mouvement de la Lune autour de la Terre, représentée sur l'image d'introduction.\textbf{Comment peut-on la modéliser ? Même question pour le bus.}\medskip
+
+\textbf{Solution: } On peut modéliser la lune par son centre de gravité en rotation autour de la Terre fixe avec un repère dont l'origine est au centre de la Terre et trois axes pointant vers trois étoiles lointaines supposées fixes aussi. \medskip
+
+Le bus peut être étudié dans le référentiel terrestre fixe. On pourra étudier le mouvement du bus en le réduisant à son centre de gravité.
+
+}
+
+\subsection{Référentiel}
+
+Pour pouvoir décrire \textbf{la position} d'un système dans l'espace, il faut nécessairement spécifier le \textbf{référentiel} dans lequel on travaille.
+
+\begin{definition}{Définition 2 - Référentiel}
+
+		Le \textbf{référentiel} d'étude est l'objet de référence par rapport auquel on étudie le mouvement du système. On associe au référentiel un \textbf{repère d'espace} (3 directions) et un \textbf{repère de temps} (une horloge). 
+
+\end{definition}
+
+\begin{table}[!ht]
+\resizebox{\linewidth}{!}{
+	\begin{tabular}{|p{3cm}|p{8cm}|}
+	\hline 
+	Référentiel  & Repère associé \\ \hline
+	 \textbf{Héliocentrique}& \small Origine au centre du Soleil et les axes pointent vers trois étoiles lointaines supposées fixes. \\ \hline
+	 \textbf{Géocentrique }& \small Origine au centre de la Terre  et axes orientés vers trois étoiles lointaines supposées fixes. \\ \hline 
+	 
+	\textbf{Terrestre} & \small Centré sur un objet fixe à la surface de la Terre et axes  liés à la rotation de la Terre. \\ \hline
+	\end{tabular}
+}
+\end{table}
+
+\exo{2}{Référentiels}{On étudie le décollage d'un avion de ligne de type Airbus A320, illustré par les deux images ci-dessous : 
+\begin{center}
+\includegraphics[width=1\textwidth]{Airbus.png}
+\end{center}
+\begin{enumerate}
+	\item \analyser \communiquer Dans quel référentiel est-il pertinent d'étudier le décollage de l'avion ? Pourquoi ?\medskip
+	
+	\textbf{Il vaut mieux étudier le décollage de l'avion dans le référentiel terrestre lié au sol fixe.}
+
+	\item \analyser Indiquer dans quels référentiels ont été prises les photographies.\medskip
+	
+	\textbf{Figure de gauche, référentiel terrestre, figure de droite, référetiel  de l'avion entrain de décoller.}
+
+\end{enumerate}
+}
+
+	
+Le mouvement d'un objet \textbf{dépend donc entièrement de l'observateur} (du référentiel) : on dit que le mouvement est \textbf{relatif}.
+
+
+\clearpage
+\subsection{Trajectoire}
+
+\begin{definition}{Définition 3 - Trajectoire}
+
+	La \textbf{trajectoire} d'un point matériel, dans un référentiel d'étude donné correspond à la courbe formée par l'ensemble des positions successivement occupées par le point matériel lors de son mouvement.
+
+\end{definition}
+\bigskip
+
+En particulier, la trajectoire d'un système peut être : 
+
+\begin{itemize}
+	\item \textbf{rectiligne} si le système se déplace suivant une \textbf{droite};\medskip
+	
+	\item \textbf{circulare} si le système se déplace suivant une \textbf{cercle};\medskip
+	
+	\item \textbf{curviligne} dans tous les autres cas;
+
+\end{itemize}
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=.1\textwidth]{bulles.png}\hspace{.5cm}
+	\includegraphics[width=.3\textwidth]{TrajectoireGrenouille.png}
+	\caption{\textbf{Chronophotographies}. À gauche des bulles dans un verre de champagne, à droite un saut de grenouille}
+\end{figure}
+\vspace{3cm}
+
+\exo{3}{Trajectoire}{\analyser La chronophotographie précédente montre l'ascension d'une bulle de champagne. Comment peut-on qualifier sa trajectoire dans le référentiel du verre ? Et dans le cas de la grenouille ? \medskip
+
+\textbf{Solution: } La trajectoire de la bulle de champagne peut être qualifiée de rectiligne accélérée. En effet les différentes positions de la bulles sont de plus en plus espacées ce qui signifie que la vitesse augmente.\medskip
+
+Le saut de la grenouille est une trajectoire curviligne.
+}
+
+\subsection{Vecteur déplacement}
+
+Afin de pouvoir décrire le déplacement d'un système d'un point $M$ à un point $M^\prime$, il est commode de définir son \textbf{vecteur déplacement} $\overrightarrow{MM^\prime}$.
+
+\exo{4}{Vecteur déplacement}{\realiser Le schéma de la page précédente montre la trajectoire suivie par une grenouille au cours d’un saut d’un point $M$ à un point $M^\prime$. \textbf{Représenter ces points
+sur le schéma ainsi que le vecteur déplacement
+$\vec{MM^\prime}$ de la grenouille}.}
+
+\begin{definition}{Définition 4 - Vecteur déplacement}
+
+Le déplacement du point matériel entre les dates $t$ et $t^\prime$ est défini par le vecteur déplacement  $\overrightarrow{MM^\prime}$.  
+\end{definition}
+
+\section{Vitesse d'un système}
+
+La vitesse d'un système permet de connaître \textbf{l'évolution de sa position dans le temps}: plus un stème va vite, plus sa position change rapidement.
+
+% \subsection{Vecteur vitesse instantanée}
+
+\subsection{Vecteur vitesse moyenne}\bigskip
+
+\begin{definition}{Définition 5 - Vecteur vitesse moyenne}
+
+		
+	Le vecteur vitesse moyenne $\vec{v_i}$, d'un système au point $M_i$ entre deux dates $t$ et $t^\prime$, a pour expression : 
+
+	$$\vec{v_2} = \dfrac{\overrightarrow{M_{1}M_{2}}}{t_{3}-t_{1}}$$
+
+	$M_{3}M_{1}$ la distance entre les points en mètres, $t_{3}-t_{1}$ la durée séparant les instants $t_{3}$ et $t_{1}$ en secondes, $v$ la valeur de la vitesse en mètres par secondes.
+
+
+\end{definition}\bigskip
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=.5\linewidth]{SchemaVecteurVitesse.png}
+\end{figure}
+\begin{Proposition}{Propriété 1 - Caractéristiques du vecteur vitesse}
+
+		
+	Ce vecteur a les caractéristiques suivantes:
+	\begin{itemize}
+		\item \textbf{direction :} parallèle au segment $M_{1}M_{2}$
+		\item \textbf{sens :} celui du mouvement;
+		\item \textbf{norme :} $v_2 = \dfrac{M_{1}M_{2}}{t_{3}-t_{1}}.$ Avec $ M_{1}M_{2}$ la distance entre $M_1$ et $M_3$ en mètres. $t_3-t_1$ la durée séparant les instants $t_1$ et $t_3$. $v_2$ la valeur de la vitesse en $m/s$.
+
+	\end{itemize}
+
+\end{Proposition}
+
+
+\exo{5}{Vitesse moyenne}{On considère le saut de grenouille. La distance $MM^\prime$ est de 0,80 m, et le temps de vol de la grenouille est de $\Delta t =0,3$ secondes.\medskip
+
+\begin{enumerate}
+	\item \realiser Calculer la valeur de la vitesse moyenne de la grenouille.\medskip
+	
+	\textbf{Solution : } Par définition $v = \dfrac{d}{\Delta t} = \dfrac{0,80}{0,3} = 3~\rm m/s$
+
+	\item \realiser \analyser Comment est orienté le vecteur vitesse moyenne ?\medskip
+	
+	\textbf{Solution:} Le vecteur vitesse moyenne est orientée dans la même direction et sens que le vecteur position $\vec{MM\prime}$
+\end{enumerate}}
+
+\section{Vecteur vitesse instantanée}
+
+Le vecteur vitesse moyenne entre deux points ne permet pas de décrire les éventuelles variations de vitesse du système entre ces deux points. Le vecteur \textbf{vitesse instantanée} le permet.
+
+\begin{definition}{Définition 6 - Vecteur vitesse instantanée}
+
+		Pour obtenir la vitesse instantanée du point matériel $M$ à la date $t$, il faut connaître sa position à une date $t^\prime$ très proche de $t$. On calcule alors le vecteur vitesse instantanée : 
+	
+		$$\vec{v} = \dfrac{\vec{MM^\prime}}{\Delta t}\text{  avec } \Delta t = t^\prime - t$$
+
+\end{definition}
+
+% \begin{Proposition}{Propriété 2 - Vecteur vitesse instantanée}
+	
+% \end{Proposition}
+
+\end{document}
+
+%%
+%% FIN DU DOCUMENT
+%%
