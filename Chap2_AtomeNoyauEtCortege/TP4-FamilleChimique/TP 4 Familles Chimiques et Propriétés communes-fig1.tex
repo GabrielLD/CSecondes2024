@@ -1,0 +1,73 @@
+\documentclass{scrartcl}
+\usepackage[driver=dvips]{geometry}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\usepackage[miktex]{pstricks}
+\input{./"TP 4 Familles Chimiques et Propriétés communes"-fig1-config.tex}
+\makeatletter
+\pst@dima=2\psxunit
+\pst@dimc=-2\psxunit
+\advance\pst@dima by -\pst@dimc
+\ifdim\pst@dima<0pt \pst@dima=-\pst@dima\fi
+\pst@dimb=16\psyunit
+\pst@dimc=0\psyunit
+\advance\pst@dimb by -\pst@dimc
+\ifdim\pst@dimb<0pt \pst@dimb=-\pst@dimb\fi
+\geometry{paperwidth=\pst@dima, paperheight=\pst@dimb, margin=0pt}
+\makeatother
+\begin{document}
+\begin{document}(-2,0)(2,16)
+\else \ifpst@dosage@PHmetre \pspicture (-5,0)(3,5)\else \pspicture (-2,0)(2,5)\fi \fi \rput (0,3.5){\pstBallon }\ifPst@burette \rput (0,4.5){\psclip {\pscustom [linestyle=none]{\pst@burette@corps }} \psframe *[linecolor=\psk@Burette@CouleurReactif ](-1,-1)(! 1 \the \pst@cnta \space 0.32 mul 2.68 add) \endpsclip } \fi \psset {linewidth=0.053}\ifPst@burette \rput (0,4.5){\pst@burette@corps \pst@burette@robinet \pst@burette@graduation }\fi \ifpst@dosage@PHmetre \rput (-3,0){\pst@dosage@pHmetre }\fi \ifPst@Agitateur@Magnetique \rput (0,1.5){\pst@dosage@aimant }\rput (0,0){\pst@dosage@support }\else \psframe (-1.5,0)(1.5,1.5)\fi \ifPst@burette \uput [0](2,11){\psk@Reactif@Burette }\fi \uput [0](2,3.5){\psk@Reactif@Becher }\endpspicture \end@SpecialObj \pr@endbox \pstDosage [glassType=erlen,burette=false]
+% \end{pdfpic}
+
+
+% \begin{figure}[ht]
+% 	\centering
+
+% \begin{pspicture}(0,0)(4.25,2.5)
+% \psset{unit=0.5cm}
+% \pstTubeEssais
+% \end{pspicture}
+
+% 	\caption{Schéma de l'expérience à compléter}
+% \end{figure}
+
+\section{Réactions avec les ions halogénures, Cl$^-$, Br$^-$ et I$^-$}
+
+Les halogènes se trouvent très facilement sous la forme d'anions, les ions halogénures.
+
+\begin{table}[ht]
+	\centering
+
+	\begin{tabular}{|c|c|c|}
+		\hline
+		\hspace{1cm}\textbf{Halogène} \hspace{1cm} & \hspace{1cm} \textbf{Nom de l'ion} \hspace{1cm} & \hspace{1cm} \textbf{Formule} \hspace{1cm} \\ \hline
+		& & \\ \hline
+		& & \\ \hline
+		& & \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{Protocol}{Protocole}
+\begin{enumerate}
+
+	\item Préparer \textbf{quatre} tubes à essais et y verser environ 2 mL des solutions ci-dessous:
+ 	\begin{itemize}
+		\item tube 1: solution de bromure de potassium (K$^+ + $Br$^-$)
+		\item tube 2: solution de chlorure de potassium (K$^+ + $Cl$^-$);
+		\item tube 3: solution d'iodure de potassium (K$^+ + $Cl$^-$)
+		\item tube 4: solution de nitrate de potassium (K$^+ + $Cl$^-$)
+	\end{itemize}
+	\item Ajouter dans les quatre tubes à essais quelques gouttes de nitrate d'argent (Ag$^+ +$NO$_3^-$)
+\end{enumerate}
+\end{Protocol}
+
+\textbf{Travail à effectuer:}
+
+\begin{enumerate}
+	\item Mettre en \oe uvre le protocole précédent et schématiser les quatre expériences dans votre compte-rendu de TP;
+	\item Noter vos observations
+	\item Interpréter: identifier dans chaque cas l'ion qui réagit avec le nitrate d'argent, et identifier leur position dans le tableau périodique.
+	\item Conclure: Que pouvez-vous affirmer sur des éléments chimiques qui appartiennent à la famille chimique (même colonne du tableau périodique) ?
+\end{enumerate}
