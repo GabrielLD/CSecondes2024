@@ -1,0 +1,1722 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.19)  6 JAN 2024 16:52
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/Gabriel/Documents/GitHub/Enseignements/Seconde générale/Chap6_Quantite_de_matiere/Cours_version_prof/Chap6_Quantité_de_matiere_version_prof.tex"
+(c:/Users/Gabriel/Documents/GitHub/Enseignements/Seconde générale/Chap6_Quantite_de_matiere/Cours_version_prof/Chap6_Quantité_de_matiere_version_prof.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-05-04> (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (pckg.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/04/30 3.74 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen139
+\l@unhyphenated=\language79
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.ldf
+Language: french 2022/04/18 v3.5n French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language22). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language22). Reported on input line 92.
+\FB@nonchar=\count195
+Package babel Info: Making : an active character on input line 430.
+Package babel Info: Making ; an active character on input line 431.
+Package babel Info: Making ! an active character on input line 432.
+Package babel Info: Making ? an active character on input line 433.
+\FBguill@level=\count196
+\FBold@everypar=\toks18
+\FB@Mht=\dimen140
+\mc@charclass=\count197
+\mc@charfam=\count198
+\mc@charslot=\count199
+\std@mcc=\count266
+\dec@mcc=\count267
+\listindentFB=\dimen141
+\descindentFB=\dimen142
+\labelindentFB=\dimen143
+\labelwidthFB=\dimen144
+\leftmarginFB=\dimen145
+\parindentFFN=\dimen146
+\FBfnindent=\dimen147
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count268
+\calc@Bcount=\count269
+\calc@Adimen=\dimen148
+\calc@Bdimen=\dimen149
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count270
+\calc@Cskip=\skip51
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen150
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count271
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count272
+\leftroot@=\count273
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count274
+\DOTSCASE@=\count275
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count276
+\c@MaxMatrixCols=\count277
+\dotsspace@=\muskip16
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
+\tag@help=\toks21
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
+\andhelp@=\toks22
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks23
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+\g_MT_multlinerow_int=\count283
+\l_MT_multwidth_dim=\dimen159
+\origjot=\skip55
+\l_MT_shortvdotswithinadjustabove_dim=\dimen160
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen161
+\l_MT_above_intertext_sep=\dimen162
+\l_MT_below_intertext_sep=\dimen163
+\l_MT_above_shortintertext_sep=\dimen164
+\l_MT_below_shortintertext_sep=\dimen165
+\xmathstrut@box=\box52
+\xmathstrut@dim=\dimen166
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen167
+\pgfutil@tempdimb=\dimen168
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box53
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen169
+\Gin@req@width=\dimen170
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks28
+))
+\pgf@x=\dimen171
+\pgf@y=\dimen172
+\pgf@xa=\dimen173
+\pgf@ya=\dimen174
+\pgf@xb=\dimen175
+\pgf@yb=\dimen176
+\pgf@xc=\dimen177
+\pgf@yc=\dimen178
+\pgf@xd=\dimen179
+\pgf@yd=\dimen180
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count284
+\c@pgf@countb=\count285
+\c@pgf@countc=\count286
+\c@pgf@countd=\count287
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+\pgf@sys@id@count=\count288
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count289
+\pgfsyssoftpath@bigbuffer@items=\count290
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen181
+\pgfmath@count=\count291
+\pgfmath@box=\box54
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count292
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen182
+\pgf@picmaxx=\dimen183
+\pgf@picminy=\dimen184
+\pgf@picmaxy=\dimen185
+\pgf@pathminx=\dimen186
+\pgf@pathmaxx=\dimen187
+\pgf@pathminy=\dimen188
+\pgf@pathmaxy=\dimen189
+\pgf@xx=\dimen190
+\pgf@xy=\dimen191
+\pgf@yx=\dimen192
+\pgf@yy=\dimen193
+\pgf@zx=\dimen194
+\pgf@zy=\dimen195
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen196
+\pgf@path@lasty=\dimen197
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen198
+\pgf@shorten@start@additional=\dimen199
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count293
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen256
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen257
+\pgf@pt@y=\dimen258
+\pgf@pt@temp=\dimen259
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen260
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen261
+\pgf@sys@shading@range@num=\count294
+\pgf@shadingcount=\count295
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box58
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box59
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen262
+\pgf@nodesepend=\dimen263
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen264
+\pgffor@skip=\dimen265
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count296
+\pgfplotmarksize=\dimen266
+)
+\tikz@lastx=\dimen267
+\tikz@lasty=\dimen268
+\tikz@lastxsaved=\dimen269
+\tikz@lastysaved=\dimen270
+\tikz@lastmovetox=\dimen271
+\tikz@lastmovetoy=\dimen272
+\tikzleveldistance=\dimen273
+\tikzsiblingdistance=\dimen274
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count297
+\tikznumberofchildren=\count298
+\tikznumberofcurrentchild=\count299
+\tikz@fig@count=\count300
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count301
+\pgfmatrixcurrentcolumn=\count302
+\pgf@matrix@numberofcolumns=\count303
+)
+\tikz@expandcount=\count304
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrary3d.code.tex
+File: tikzlibrary3d.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodepartlowerbox=\box64
+\pgfnodeparttwobox=\box65
+\pgfnodepartthreebox=\box66
+\pgfnodepartfourbox=\box67
+\pgfnodeparttwentybox=\box68
+\pgfnodepartnineteenbox=\box69
+\pgfnodeparteighteenbox=\box70
+\pgfnodepartseventeenbox=\box71
+\pgfnodepartsixteenbox=\box72
+\pgfnodepartfifteenbox=\box73
+\pgfnodepartfourteenbox=\box74
+\pgfnodepartthirteenbox=\box75
+\pgfnodeparttwelvebox=\box76
+\pgfnodepartelevenbox=\box77
+\pgfnodeparttenbox=\box78
+\pgfnodepartninebox=\box79
+\pgfnodeparteightbox=\box80
+\pgfnodepartsevenbox=\box81
+\pgfnodepartsixbox=\box82
+\pgfnodepartfivebox=\box83
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen275
+\pgfdecoratedremainingdistance=\dimen276
+\pgfdecoratedinputsegmentcompleteddistance=\dimen277
+\pgfdecoratedinputsegmentremainingdistance=\dimen278
+\pgf@decorate@distancetomove=\dimen279
+\pgf@decorate@repeatstate=\count305
+\pgfdecorationsegmentamplitude=\dimen280
+\pgfdecorationsegmentlength=\dimen281
+)
+\tikz@lib@dec@box=\box84
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.markings.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.markings.code.tex)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen282
+\WF@size=\dimen283
+\c@WF@wrappedlines=\count306
+\WF@box=\box85
+\WF@everypar=\toks37
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks38
+\t@pgfplots@tokb=\toks39
+\t@pgfplots@tokc=\toks40
+\pgfplots@tmpa=\dimen284
+\c@pgfplots@coordindex=\count307
+\c@pgfplots@scanlineindex=\count308
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count309
+)
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count310
+\t@pgfplotstable@a=\toks41
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count311
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count312
+\pgfplots@xmin@reg=\dimen285
+\pgfplots@xmax@reg=\dimen286
+\pgfplots@ymin@reg=\dimen287
+\pgfplots@ymax@reg=\dimen288
+\pgfplots@zmin@reg=\dimen289
+\pgfplots@zmax@reg=\dimen290
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen291
+\epsfysize=\dimen292
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/05/22 v0.5v Insert pages of external PDF documents (AM)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen293
+\ESO@tempdimb=\dimen294
+)
+\AM@pagewidth=\dimen295
+\AM@pageheight=\dimen296
+\AM@fboxrule=\dimen297
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/05/22 v0.5v Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count313
+\AM@pagebox=\box86
+\AM@global@opts=\toks42
+\AM@pagecnt=\count314
+\AM@toc@title=\toks43
+\c@AM@survey=\count315
+\AM@templatesizebox=\box87
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen298
+\captionmargin=\dimen299
+\caption@leftmargin=\dimen300
+\caption@rightmargin=\dimen301
+\caption@width=\dimen302
+\caption@indent=\dimen303
+\caption@parindent=\dimen304
+\caption@hangindent=\dimen305
+Package caption Info: Standard document class detected.
+Package caption Info: french babel package is loaded.
+)
+\c@caption@flags=\count316
+\c@continuedfloat=\count317
+Package caption Info: wrapfig package is loaded.
+)
+\c@KVtest=\count318
+\sf@farskip=\skip56
+\sf@captopadj=\dimen306
+\sf@capskip=\skip57
+\sf@nearskip=\skip58
+\c@subfigure=\count319
+\c@subfigure@save=\count320
+\c@lofdepth=\count321
+\c@subtable=\count322
+\c@subtable@save=\count323
+\c@lotdepth=\count324
+\sf@top=\skip59
+\sf@bottom=\skip60
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pstricks\pst-all.sty
+Package: pst-all 2008/01/01 the main pstricks tools
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pstricks\pstricks.sty
+Package: pstricks 2021/08/23 v0.71 LaTeX wrapper for `PSTricks' (RN,HV)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks44
+\XKV@tempa@toks=\toks45
+)
+\XKV@depth=\count325
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-fp.tex `pst-fp' v0.06, 2020/11/20 (hv)
+\pstFP@xs=\count326
+\pstFP@xia=\count327
+\pstFP@xib=\count328
+\pstFP@xfa=\count329
+\pstFP@xfb=\count330
+\pstFP@rega=\count331
+\pstFP@regb=\count332
+\pstFP@regs=\count333
+\pstFP@times=\count334
+)
+\psLoopIndex=\count335
+
+`PSTricks' v3.14  <2022/08/30> (tvz,hv)
+\pst@dima=\dimen307
+\pst@dimb=\dimen308
+\pst@dimc=\dimen309
+\pst@dimd=\dimen310
+\pst@dimg=\dimen311
+\pst@dimh=\dimen312
+\pst@dimm=\dimen313
+\pst@dimn=\dimen314
+\pst@dimo=\dimen315
+\pst@dimp=\dimen316
+\pst@hbox=\box88
+\pst@ibox=\box89
+\pst@boxg=\box90
+\pst@cnta=\count336
+\pst@cntb=\count337
+\pst@cntc=\count338
+\pst@cntd=\count339
+\pst@cntg=\count340
+\pst@cnth=\count341
+\pst@cntm=\count342
+\pst@cntn=\count343
+\pst@cnto=\count344
+\pst@cntp=\count345
+\@zero=\count346
+\pst@toks=\toks46
+--- We are running latex or xelatex ---
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks.con) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks-color.tex)
+\psunit=\dimen317
+\psxunit=\dimen318
+\psyunit=\dimen319
+\pst@C@@rType=\count347
+\pslinewidth=\dimen320
+\psk@startLW=\dimen321
+\psk@endLW=\dimen322
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks-arrows.tex
+\pshooklength=\dimen323
+\pshookwidth=\dimen324
+)
+\pst@customdefs=\toks47
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks-dots.tex)
+\pslinearc=\dimen325
+\pst@symbolStep=\dimen326
+\pst@symbolWidth=\dimen327
+\pst@symbolLinewidth=\dimen328
+\everypsbox=\toks48
+\psframesep=\dimen329
+\pslabelsep=\dimen330
+\sh@wgridXunit=\dimen331
+\sh@wgridYunit=\dimen332
+\pst@shift=\dimen333
+\ps@imagectr=\count348
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks.con))
+File: pstricks.tex 2022/08/30 v3.14 `PSTricks' (tvz,hv)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-fp.tex `pst-fp' v0.06, 2020/11/20 (hv))
+File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pst-plot\pst-plot.sty
+Package: pst-plot 2011/06/05 v1.00 LaTeX wrapper for `pst-plot' (HV)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\pst-xkey.sty
+Package: pst-xkey 2005/11/25 v1.6 package wrapper for pst-xkey.tex (HA)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/multido\multido.sty
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/multido\multido.tex  v1.42, 2010/05/14 <tvz>
+\multido@count=\count349
+\multidocount=\count350
+\multido@stuff=\toks49
+)
+File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
+)
+Package: pst-plot 2021/09/23 package wrapper for pst-plot.tex (hv)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-plot\pst-plot.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-tools\pst-tools.tex `PST-tools' v0.12, 2021/09/23 (hv)
+\randomi=\count351
+\ranval=\count352
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pstricks-add\pstricks-add.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-node\pst-node.tex  v1.43, 2022/01/31
+\psrow=\count353
+\pscol=\count354
+\psmatrixcnt=\count355
+\psrowsep=\skip61
+\pscolsep=\skip62
+\pst@args=\count356
+\num@pts=\count357
+\pst@argcnt=\count358
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-arrow\pst-arrow.tex `pst-arrow' v0.05, 2021/11/16 (dr,hv)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-3d\pst-3d.tex `PST-3d' v1.11, 2010/02/14 (tvz)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-math\pst-math.tex `pst-math' v0.64 , (CJ,hv)) `pstricks-add' v3.91, 2021/09/25 (dr,hv)
+\psparallelogramsep=\dimen334
+\pst@cntC=\count359
+\pst@stepcount=\count360
+\chart@ColorIndex=\dimen335
+\chart@ColorStep=\dimen336
+\pst@chartHeight=\dimen337
+\pst@chartStackDepth=\dimen338
+\pst@chartStackWidth=\dimen339
+\chart@Toggle=\count361
+\psVectorCtr=\count362
+)  v1.93, 2021/09/23 (tvz,hv)
+\pstRadUnit=\dimen340
+\pstRadUnitInv=\dimen341
+\pst@linecnt=\count363
+\RCD@file=\read4
+\psxlabelsep=\dimen342
+\psylabelsep=\dimen343
+\psk@subticksize=\dimen344
+\pst@xticksizeA=\dimen345
+\pst@xticksizeB=\dimen346
+\pst@xticksizeC=\dimen347
+\pst@yticksizeA=\dimen348
+\pst@yticksizeB=\dimen349
+\pst@yticksizeC=\dimen350
+\@digitcounter=\count364
+\psk@llx=\dimen351
+\psk@lly=\dimen352
+\psk@urx=\dimen353
+\psk@ury=\dimen354
+\pst@xunit=\dimen355
+\pst@yunit=\dimen356
+)
+File: pst-plot.tex 2021/09/23 1.93 `pst-plot' (tvz,hv)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pst-node\pst-node.sty
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-node\pst-node.tex)
+File: pst-node.tex 2021/09/23 1.93 `pst-node' (tvz,hv)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pst-tree\pst-tree.sty
+Package: pst-tree 2009/01/25 package wrapper for pst-tree.tex
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-tree\pst-tree.tex  v1.14, 2021/09/04(tvz,dg,hv)
+\pstree@rootbox=\box91
+\pstree@box=\box92
+\psnodecnt=\count365
+\pstreelevel=\count366
+\pstreecnt=\count367
+\pstree@cnt=\count368
+\pstree@stop=\count369
+)
+File: pst-tree.tex 2021/09/04 1.14 `pst-tree' (tvz,hv)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pst-grad\pst-grad.sty
+Package: pst-grad 2004/07/15 package wrapper for pst-grad.tex (hv)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-grad\pst-grad.tex `pst-grad' v1.06, 2006/11/27 (tvz,dg,hv))
+File: pst-grad.tex 2006/11/27 1.06 `pst-grad' (tvz)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pst-coil\pst-coil.sty
+Package: pst-coil 2010/02/01 package wrapper for pst-coil.tex (hv)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-coil\pst-coil.tex  v1.06, 2006/11/27 (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-node\pst-node.tex))
+File: pst-coil.tex 2015/05/13 v1.07 `PST-coil' (tvz,hv)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pst-text\pst-text.sty
+Package: pst-text 2018/12/28 package wrapper for pst-text.tex (hv)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-text\pst-text.tex  v1.01, 2018/12/22(tvz,hv))
+File: pst-text.tex 2018/12/22 1.01 `pst-text' (tvz)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pst-3d\pst-3d.sty
+Package: pst-3d 2009/07/28 package wrapper for pst-3d.tex (hv)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-3d\pst-3d.tex)
+File: pst-3d.tex 2018/12/22 v1.01 `PST-3d' (hv)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pst-eps\pst-eps.sty
+Package: pst-eps 2005/05/20 package wrapper for pst-eps.tex (hv)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-eps\pst-eps.tex  v1.00, 2006/11/04
+\pst@epsout=\write4
+\pst@tempout=\write5
+)
+File: pst-eps.tex 2006/11/04 1.00 `pst-eps' (tvz)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pst-fill\pst-fill.sty
+Package: pst-fill 2010/03/20 package wrapper for pst-fill.tex (hv)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-fill\pst-fill.tex `PST-Fill' v1.02, 2021/10/01 (tvz,dg,hv)
+\pst@fillbox=\box93
+)
+File: pst-fill.tex 2021/10/01 v1.02 `PST-fill' (tvz,dg,hv)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pstricks-add\pstricks-add.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pst-math\pst-math.sty
+Package: pst-math 2018/12/16 v 0.65 package wrapper for PSTricks pst-math.tex
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pst-calculate\pst-calculate.sty
+Package: pst-calculate 2019/01/24 v. 0.02(Herbert Voss) Support for caculations with floating point numbers.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-05-04 L3 programming layer (loader) 
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count370
+\l__pdf_internal_box=\box94
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2022-08-08 v3.1.6 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen357
+\l__siunitx_angle_marker_box=\box95
+\l__siunitx_angle_unit_box=\box96
+\l__siunitx_compound_count_int=\count371
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count372
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_number_exponent_fixed_int=\count373
+\l__siunitx_number_min_decimal_int=\count374
+\l__siunitx_number_min_integer_int=\count375
+\l__siunitx_number_round_precision_int=\count376
+\l__siunitx_number_group_first_int=\count377
+\l__siunitx_number_group_size_int=\count378
+\l__siunitx_number_group_minimum_int=\count379
+\l__siunitx_table_tmp_box=\box97
+\l__siunitx_table_tmp_dim=\dimen358
+\l__siunitx_table_column_width_dim=\dimen359
+\l__siunitx_table_integer_box=\box98
+\l__siunitx_table_decimal_box=\box99
+\l__siunitx_table_before_box=\box100
+\l__siunitx_table_after_box=\box101
+\l__siunitx_table_before_dim=\dimen360
+\l__siunitx_table_carry_dim=\dimen361
+\l__siunitx_unit_tmp_int=\count380
+\l__siunitx_unit_position_int=\count381
+\l__siunitx_unit_total_int=\count382
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen362
+\ar@mcellbox=\box102
+\extrarowheight=\dimen363
+\NC@list=\toks50
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box103
+))) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\integerpart=\count383
+\decimalpart=\count384
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pst-math\pst-math.tex)
+File: pst-math.tex 2021/10/01 v1.02 `PST-math' (hv)
+\c@Rand@No=\count385
+\c@Random@Left=\count386
+\c@Random@Right=\count387
+\c@Random@No@max=\count388
+)
+Package: pstricks-add 2021/09/10 v. 0.17 package wrapper for pstricks-add.tex (hv)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pstricks-add\pstricks-add.tex)
+File: pstricks-add.tex 2021/10/01 v1.02 `PSTricks-add' (hv)
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count389
+\l__lipsum_a_int=\count390
+\l__lipsum_b_int=\count391
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count392
+
+
+Package multicol Warning: May not work with the twocolumn option on input line 142.
+
+\mult@box=\box104
+\multicol@leftmargin=\dimen364
+\c@unbalance=\count393
+\c@collectmore=\count394
+\doublecol@number=\count395
+\multicoltolerance=\count396
+\multicolpretolerance=\count397
+\full@width=\dimen365
+\page@free=\dimen366
+\premulticols=\dimen367
+\postmulticols=\dimen368
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box105
+\last@line=\box106
+\maxbalancingoverflow=\dimen369
+\mult@rightbox=\box107
+\mult@grightbox=\box108
+\mult@firstbox=\box109
+\mult@gfirstbox=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\@tempa=\box131
+\@tempa=\box132
+\@tempa=\box133
+\@tempa=\box134
+\@tempa=\box135
+\@tempa=\box136
+\@tempa=\box137
+\@tempa=\box138
+\@tempa=\box139
+\@tempa=\box140
+\@tempa=\box141
+\@tempa=\box142
+\@tempa=\box143
+\@tempa=\box144
+\@tempa=\box145
+\@tempa=\box146
+\c@minrows=\count398
+\c@columnbadness=\count399
+\c@finalcolumnbadness=\count400
+\last@try=\dimen370
+\multicolovershoot=\dimen371
+\multicolundershoot=\dimen372
+\mult@nat@firstbox=\box147
+\colbreak@box=\box148
+\mc@col@check@num=\count401
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip67
+\enit@outerparindent=\dimen373
+\enit@toks=\toks51
+\enit@inbox=\box149
+\enit@count@id=\count402
+\enitdp@description=\count403
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-05-13 v7.00o Hypertext links for LaTeX
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen374
+\Hy@linkcounter=\count404
+\Hy@pagecounter=\count405
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-05-13 v7.00o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count406
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-05-13 v7.00o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4142.
+Package hyperref Info: Link nesting OFF on input line 4147.
+Package hyperref Info: Hyper index ON on input line 4150.
+Package hyperref Info: Plain pages OFF on input line 4157.
+Package hyperref Info: Backreferencing OFF on input line 4162.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4395.
+\c@Hy@tempcnt=\count407
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4742.
+\XeTeXLinkMargin=\dimen375
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count408
+\Field@Width=\dimen376
+\Fld@charsize=\dimen377
+Package hyperref Info: Hyper figures OFF on input line 6020.
+Package hyperref Info: Link nesting OFF on input line 6025.
+Package hyperref Info: Hyper index ON on input line 6028.
+Package hyperref Info: backreferencing OFF on input line 6035.
+Package hyperref Info: Link coloring OFF on input line 6040.
+Package hyperref Info: Link coloring with OCG OFF on input line 6045.
+Package hyperref Info: PDF/A mode OFF on input line 6050.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6097.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count409
+\c@Item=\count410
+\c@Hfootnote=\count411
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-05-13 v7.00o Hyperref driver for pdfTeX
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count412
+\c@bookmark@seq@number=\count413
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip68
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/05/10 v4.0.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip69
+\f@nch@O@elh=\skip70
+\f@nch@O@erh=\skip71
+\f@nch@O@olh=\skip72
+\f@nch@O@orh=\skip73
+\f@nch@O@elf=\skip74
+\f@nch@O@erf=\skip75
+\f@nch@O@olf=\skip76
+\f@nch@O@orf=\skip77
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count414
+Package zref Info: New property: abspage on input line 65.
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip78
+\c@mdf@globalstyle@cnt=\count415
+\mdf@skipabove@length=\skip79
+\mdf@skipbelow@length=\skip80
+\mdf@leftmargin@length=\skip81
+\mdf@rightmargin@length=\skip82
+\mdf@innerleftmargin@length=\skip83
+\mdf@innerrightmargin@length=\skip84
+\mdf@innertopmargin@length=\skip85
+\mdf@innerbottommargin@length=\skip86
+\mdf@splittopskip@length=\skip87
+\mdf@splitbottomskip@length=\skip88
+\mdf@outermargin@length=\skip89
+\mdf@innermargin@length=\skip90
+\mdf@linewidth@length=\skip91
+\mdf@innerlinewidth@length=\skip92
+\mdf@middlelinewidth@length=\skip93
+\mdf@outerlinewidth@length=\skip94
+\mdf@roundcorner@length=\skip95
+\mdf@footenotedistance@length=\skip96
+\mdf@userdefinedwidth@length=\skip97
+\mdf@needspace@length=\skip98
+\mdf@frametitleaboveskip@length=\skip99
+\mdf@frametitlebelowskip@length=\skip100
+\mdf@frametitlerulewidth@length=\skip101
+\mdf@frametitleleftmargin@length=\skip102
+\mdf@frametitlerightmargin@length=\skip103
+\mdf@shadowsize@length=\skip104
+\mdf@extratopheight@length=\skip105
+\mdf@subtitleabovelinewidth@length=\skip106
+\mdf@subtitlebelowlinewidth@length=\skip107
+\mdf@subtitleaboveskip@length=\skip108
+\mdf@subtitlebelowskip@length=\skip109
+\mdf@subtitleinneraboveskip@length=\skip110
+\mdf@subtitleinnerbelowskip@length=\skip111
+\mdf@subsubtitleabovelinewidth@length=\skip112
+\mdf@subsubtitlebelowlinewidth@length=\skip113
+\mdf@subsubtitleaboveskip@length=\skip114
+\mdf@subsubtitlebelowskip@length=\skip115
+\mdf@subsubtitleinneraboveskip@length=\skip116
+\mdf@subsubtitleinnerbelowskip@length=\skip117
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/mdframed\md-frame-1.mdf
+File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
+)
+\mdf@frametitlebox=\box150
+\mdf@footnotebox=\box151
+\mdf@splitbox@one=\box152
+\mdf@splitbox@two=\box153
+\mdf@splitbox@save=\box154
+\mdfsplitboxwidth=\skip118
+\mdfsplitboxtotalwidth=\skip119
+\mdfsplitboxheight=\skip120
+\mdfsplitboxdepth=\skip121
+\mdfsplitboxtotalheight=\skip122
+\mdfframetitleboxwidth=\skip123
+\mdfframetitleboxtotalwidth=\skip124
+\mdfframetitleboxheight=\skip125
+\mdfframetitleboxdepth=\skip126
+\mdfframetitleboxtotalheight=\skip127
+\mdffootnoteboxwidth=\skip128
+\mdffootnoteboxtotalwidth=\skip129
+\mdffootnoteboxheight=\skip130
+\mdffootnoteboxdepth=\skip131
+\mdffootnoteboxtotalheight=\skip132
+\mdftotallinewidth=\skip133
+\mdfboundingboxwidth=\skip134
+\mdfboundingboxtotalwidth=\skip135
+\mdfboundingboxheight=\skip136
+\mdfboundingboxdepth=\skip137
+\mdfboundingboxtotalheight=\skip138
+\mdf@freevspace@length=\skip139
+\mdf@horizontalwidthofbox@length=\skip140
+\mdf@verticalmarginwhole@length=\skip141
+\mdf@horizontalspaceofbox=\skip142
+\mdfsubtitleheight=\skip143
+\mdfsubsubtitleheight=\skip144
+\c@mdfcountframes=\count416
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count417
+\c@mdf@env@i=\count418
+\c@mdf@env@ii=\count419
+\c@mdf@zref@counter=\count420
+Package zref Info: New property: mdf@pagevalue on input line 895.
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count421
+\Gm@cntv=\count422
+\c@Gm@tempcnt=\count423
+\Gm@bindingoffset=\dimen378
+\Gm@wd@mp=\dimen379
+\Gm@odd@mp=\dimen380
+\Gm@even@mp=\dimen381
+\Gm@layoutwidth=\dimen382
+\Gm@layoutheight=\dimen383
+\Gm@layouthoffset=\dimen384
+\Gm@layoutvoffset=\dimen385
+\Gm@dimlist=\toks52
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+Package caption Info: Option `figurename' requires the `newfloat' package on input line 41.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/newfloat\newfloat.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+Package newfloat Info: `wrapfig' package detected.
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz.sty
+Package: circuitikz 2023/10/29{} The CircuiTikz circuit drawing package version 1.6.5
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen386
+\pgfarrowlength=\dimen387
+\pgfarrowwidth=\dimen388
+\pgfarrowlinewidth=\dimen389
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulebending.code.tex
+File: pgfmodulebending.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulenonlineartransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgftransformnonlinearflatness=\dimen390
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibrarycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@curvilinear@time@a=\dimen391
+\pgf@curvilinear@length@a=\dimen392
+\pgf@curvilinear@length@b=\dimen393
+\pgf@curvilinear@length@c=\dimen394
+\pgf@curvilinear@length@d=\dimen395
+)
+\pgf@arrows@the@rigidity=\dimen396
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfpu.code.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.defines.tex
+\pgf@circ@count@a=\count424
+\pgf@circ@count@b=\count425
+\pgf@circ@count@c=\count426
+\pgf@circ@res@up=\dimen397
+\pgf@circ@res@down=\dimen398
+\pgf@circ@res@zero=\dimen399
+\pgf@circ@res@left=\dimen400
+\pgf@circ@res@right=\dimen401
+\pgf@circ@res@other=\dimen402
+\pgf@circ@res@step=\dimen403
+\pgf@circ@res@temp=\dimen404
+\pgf@circ@Rlen=\dimen405
+\pgf@circ@scaled@Rlen=\dimen406
+\pgfstartlinewidth=\dimen407
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircutils.tex
+\ctikz@scratchbox=\box155
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircpath.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircshapes.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmonopoles.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircbipoles.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirctripoles.tex
+\pgf@circ@res@count=\count427
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircquadpoles.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmultipoles.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirclabel.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircvoltage.tex
+\pgfcirc@labelshift=\dimen408
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccurrent.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflow.tex)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybabel.code.tex
+File: tikzlibrarybabel.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibrarypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@layerbox@background=\box156
+\pgf@layerboxsaved@background=\box157
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/lewis\lewis.sty
+Package: lewis 2006/05/22 v0.1 Draw Lewis Structures
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/bohr\bohr.sty
+Package: bohr 2015/06/24 v1.0 simple atom representation according to the Bohr model
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks53
+\pgfopts@list@add@b@toks=\toks54
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/elements\elements.sty
+Package: elements 2022/01/29 v0.4 properties of chemical elements
+\c@@elements@orbital@type=\count428
+\c@@elements@shell@number=\count429
+)
+\c@@bohr@shell@number=\count430
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/chemfig\chemfig.sty (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/chemfig\chemfig.tex (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/simplekv\simplekv.tex
+Package: simplekv 2022/10/01 v0.2a Simple keyval package (CT)
+)
+\CF_cnt_atomgroup=\count431
+\CF_cnt_group=\count432
+\CF_cnt_atom=\count433
+\CF_cnt_cycle=\count434
+\CF_cnt_cyclebonds=\count435
+\CF_cnt_compound=\count436
+\CF_dim=\dimen409
+\CF_arrowsize=\dimen410
+\CF_zero=\dimen411
+\CF_box=\box158
+\CF_boxstuff=\box159
+\CF_testbox=\box160
+\CF_chargebox=\box161
+\CF_substtoks=\toks55
+)
+Package: chemfig 2023/06/30 v1.6e Draw molecule with an easy syntax (CT)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\chemist.sty
+Package `chemist' (ver5.01) <June 6, 2013> [SF]
+chemist.sty ver5.01 (for LaTeX2e) 2013/06/06[SF]
+\c@compd=\count437
+\c@deriv=\count438
+\reactarrowsep=\dimen412
+\verbatimleftmargin=\dimen413
+\verbatimbaselineskip=\dimen414
+\hsgr@d=\dimen415
+\vsgr@d=\dimen416
+\vwgr@d=\dimen417
+\hwgr@d=\dimen418
+\vsepgr@d=\dimen419
+\hsepgr@d=\dimen420
+\nrep=\count439
+\nrepmax=\count440
+\ybaselineshift=\dimen421
+\tbaselineshift=\dimen422
+\@savetbaselineshift=\dimen423
+LaTeX Info: Redefining \rm on input line 788.
+LaTeX Info: Redefining \mathversion on input line 892.
+\c@mv@chem=\count441
+LaTeX Font Info:    Encoding `OML' has changed to `OT1' for symbol font
+(Font)              `letters' in the math version `chem' on input line 965.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `chem'
+(Font)                  OML/cmm/m/it --> OT1/cmr/m/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `chem'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `chem'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/m/n on input line 965.
+\c@mv@boldchem=\count442
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldchem'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 965.
+LaTeX Font Info:    Encoding `OML' has changed to `OT1' for symbol font
+(Font)              `letters' in the math version `boldchem' on input line 965.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldchem'
+(Font)                  OML/cmm/m/it --> OT1/cmr/b/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldchem'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/b/n on input line 965.
+\TestCount=\count443
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/xymtex\assurechemist.sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `assurechemist' (ver5.00) <October 01, 2010> [SF]
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen424
+\TX@old@table=\dimen425
+\TX@old@col=\dimen426
+\TX@target=\dimen427
+\TX@delta=\dimen428
+\TX@cols=\count444
+\TX@ftn=\toks56
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf-spectra\pgf-spectra.sty
+Package: pgf-spectra 27/04/2023 pgf-spectra v3.0.1
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf-spectra\pgf-spectra.data.NIST.tex) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pgf-spectra\pgf-spectra.input.library.tex)
+\pgfspectra@counta=\count445
+\pgfspectra@countb=\count446
+\pgfspectra@countc=\count447
+\pgfspectra@countd=\count448
+\pgfspectrawl=\dimen429
+\pgfspectra@i=\dimen430
+\@pgfspectra@gamma=\dimen431
+\wlc@lorr=\dimen432
+\wlc@lorg=\dimen433
+\wlc@lorb=\dimen434
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 193.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks57
+\verbatim@line=\toks58
+\verbatim@in@stream=\read5
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box162
+\tcb@upperbox=\box163
+\tcb@lowerbox=\box164
+\tcb@phantombox=\box165
+\c@tcbbreakpart=\count449
+\c@tcblayer=\count450
+\c@tcolorbox@number=\count451
+\tcb@temp=\box166
+\tcb@temp=\box167
+\tcb@temp=\box168
+\tcb@temp=\box169
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '5.0.2'
+\c@tcbrastercolumn=\count452
+\c@tcbrasterrow=\count453
+\c@tcbrasternum=\count454
+\c@tcbraster=\count455
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '5.0.2'
+\tcb@waterbox=\box170
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.0.2'
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '5.0.2'
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/oberdiek\pdfcol.sty
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box171
+\tcb@totalupperbox=\box172
+\tcb@totallowerbox=\box173
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '5.0.2'
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '5.0.2'
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '5.0.2'
+\tcbfitdim=\dimen435
+\tcb@lowerfitdim=\dimen436
+\tcb@upperfitdim=\dimen437
+\tcb@cur@hbadness=\count456
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbxparse.code.tex
+Library (tcolorbox): 'tcbxparse.code.tex' version '5.0.2'
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '5.0.2'
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '5.0.2'
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count457
+\lst@gtempboxa=\box174
+\lst@token=\toks59
+\lst@length=\count458
+\lst@currlwidth=\dimen438
+\lst@column=\count459
+\lst@pos=\count460
+\lst@lostspace=\dimen439
+\lst@width=\dimen440
+\lst@newlines=\count461
+\lst@lineno=\count462
+\lst@maxwidth=\dimen441
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count463
+\lst@skipnumbers=\count464
+\lst@framebox=\box175
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '5.0.2'
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '5.0.2'
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+))
+\c@tcblisting=\count465
+)) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+))) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '5.0.2'
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '5.0.2'
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '5.0.2'
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '5.0.2'
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 346.
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box176
+)
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 10.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (Chap6_Quantité_de_matiere_version_prof.aux)
+\openout1 = `Chap6_Quantité_de_matiere_version_prof.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Info: Redefining \degres on input line 10.
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 10.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 10.
+LaTeX Info: Redefining \up on input line 10.
+\symgns@font=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/lmss/m/n --> TS1/lmss/b/n on input line 10.
+Package gensymb Info: Math companion symbols declared on input line 10.
+LaTeX Info: Redefining \degree on input line 10.
+LaTeX Info: Redefining \celsius on input line 10.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 10.
+LaTeX Info: Redefining \ohm on input line 10.
+Package gensymb Info: Using \textohm for \ohm on input line 10.
+Package gensymb Info: Using \textmu for \micro on input line 10.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count466
+\scratchdimen=\dimen442
+\scratchbox=\box177
+\nofMPsegments=\count467
+\nofMParguments=\count468
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count469
+\MPscratchDim=\dimen443
+\MPnumerator=\count470
+\makeMPintoPDFobject=\count471
+\everyMPtoPDFconversion=\toks61
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
+ on input line 10.
+
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-french.trsl
+File: translations-basic-dictionary-french.trsl (french translation file `translations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' for `french'. on input line 10.
+Package hyperref Info: Link coloring ON on input line 10.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-13 v2.48 Cross-referencing by name of section
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count472
+) (Chap6_Quantité_de_matiere_version_prof.out) (Chap6_Quantité_de_matiere_version_prof.out)
+\@outlinefile=\write6
+\openout6 = `Chap6_Quantité_de_matiere_version_prof.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(42.67912pt, 759.6886pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 512.14963pt, 42.67912pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=759.6886pt
+* \textheight=512.14963pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=30.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count473
+(C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/elements\elements_names_french.def)
+Package mdframed Info: Not enough space on this page on input line 15.
+<BO.png, id=82, 519.44063pt x 113.67468pt>
+File: BO.png Graphic file (type png)
+<use BO.png>
+Package pdftex.def Info: BO.png  used on input line 21.
+(pdftex.def)             Requested size: 342.8443pt x 75.02724pt.
+<Quiz1.png, id=84, 487.06969pt x 488.57532pt>
+File: Quiz1.png Graphic file (type png)
+<use Quiz1.png>
+Package pdftex.def Info: Quiz1.png  used on input line 35.
+(pdftex.def)             Requested size: 91.16216pt x 91.44363pt.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 37.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 37.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 37.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 37.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 37.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 37.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 37.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 37.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
+File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+<Quiz2.png, id=86, 139.27031pt x 141.52875pt>
+File: Quiz2.png Graphic file (type png)
+<use Quiz2.png>
+Package pdftex.def Info: Quiz2.png  used on input line 41.
+(pdftex.def)             Requested size: 91.16216pt x 92.64261pt.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 70.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 110.
+ (C:\Users\Gabriel\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 110.
+
+[1
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
+Non-PDF special ignored!
+<special> header=pst-node.pro
+Non-PDF special ignored!
+<special> header=pst-3d.pro
+Non-PDF special ignored!
+<special> header=pst-math.pro
+Non-PDF special ignored!
+<special> header=pstricks-add.pro
+Non-PDF special ignored!
+<special> header=pst-grad.pro
+Non-PDF special ignored!
+<special> header=pst-coil.pro
+Non-PDF special ignored!
+<special> header=pst-text.pro
+{C:/Users/Gabriel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
+Non-PDF special ignored!
+<special> ps:0.8 setlinewidth 0 setgray
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:0.8 setlinewidth 0 setgray
+ <./BO.png> <./Quiz1.png> <./Quiz2.png>]
+
+LaTeX Warning: Command \' invalid in math mode on input line 157.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 157.
+
+Package mdframed Info: Not enough space on this page on input line 157.
+
+LaTeX Warning: Command \' invalid in math mode on input line 164.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 167.
+
+[2]
+<diamant.png, id=130, 439.6425pt x 182.93344pt>
+File: diamant.png Graphic file (type png)
+<use diamant.png>
+Package pdftex.def Info: diamant.png  used on input line 190.
+(pdftex.def)             Requested size: 239.98996pt x 99.85724pt.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 190.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 190.
+
+Package mdframed Info: Not enough space on this page on input line 190.
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <12> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 196.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<viecourante.png, id=131, 575.90157pt x 191.9672pt>
+File: viecourante.png Graphic file (type png)
+<use viecourante.png>
+Package pdftex.def Info: viecourante.png  used on input line 200.
+(pdftex.def)             Requested size: 265.89565pt x 88.63403pt.
+
+
+LaTeX Font Warning: Font shape `T1/lmss/bx/sc' undefined
+(Font)              using `T1/lmss/bx/n' instead on input line 201.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+[]\T1/lmss/bx/sc/12 Amedeo
+ []
+
+<Avogadro_Amedeo.jpg, id=132, 766.865pt x 928.46875pt>
+File: Avogadro_Amedeo.jpg Graphic file (type jpg)
+<use Avogadro_Amedeo.jpg>
+Package pdftex.def Info: Avogadro_Amedeo.jpg  used on input line 221.
+(pdftex.def)             Requested size: 69.15892pt x 83.72858pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--221
+
+ []
+
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 221.
+[3
+
+ <./diamant.png> <./viecourante.png> <./Avogadro_Amedeo.jpg>]
+<Lamole.png, id=147, 415.5525pt x 579.66562pt>
+File: Lamole.png Graphic file (type png)
+<use Lamole.png>
+Package pdftex.def Info: Lamole.png  used on input line 268.
+(pdftex.def)             Requested size: 265.89565pt x 370.9228pt.
+ [4 <./Lamole.png>] (Chap6_Quantité_de_matiere_version_prof.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `Chap6_Quantité_de_matiere_version_prof.out' has not changed.
+(rerunfilecheck)             Checksum: 32F511E79B99A8AA201C1F419A5A7FB9;2100.
+ ) 
+Here is how much of TeX's memory you used:
+ 73033 strings out of 478614
+ 1821688 string characters out of 2842178
+ 2862831 words of memory out of 3000000
+ 90076 multiletter control sequences out of 15000+600000
+ 523294 words of font info for 65 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 136i,12n,136p,7801b,1022s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/eurosym/feymr10.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Gabriel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on Chap6_Quantité_de_matiere_version_prof.pdf (4 pages, 1279838 bytes).
+PDF statistics:
+ 235 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 272 words of extra memory for PDF output out of 10000 (max. 10000000)
+
